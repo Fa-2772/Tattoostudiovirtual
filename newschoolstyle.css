@@ -1,0 +1,75 @@
+body, html
+{
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-family:'Karla', sans-serif;
+    line-height: 1.8em;
+    font-weight: 400;
+    color: #666;
+}
+
+
+
+.sc1,.sc2,.sc3
+{
+    position: relative;
+    opacity:0.70;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.sc1
+{
+    background-image: url('Images/sc1.jpg');
+    min-height:100%;
+}
+.sc2
+{
+    background-image: url('Images/sc2.jpg');
+    min-height:400px;
+}
+.sc3
+{
+    background-image: url('Images/sc3.jpg');
+    min-height:400px;
+}
+.section
+{
+    text-align: center;
+    padding: 50px 80px;
+}
+.sec1
+{
+    background-color: #f4f4f4;
+    color: #666;
+}
+
+.sec2
+{
+    background-color: #282e34;
+    color: #ddd;
+}
+.txt
+{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform:uppercase;
+}
+.txt .border
+{
+    background-color: #111;
+    color: #fff;
+    padding: 20px;
+    font-family: 'ChomskyRegular';
+
+}
+.txt .border.trans{
+    background-color: transparent;
+}

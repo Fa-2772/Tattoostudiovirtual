@@ -1,0 +1,33 @@
+.title {
+
+}
+h1 {
+  font-size: 60px;
+  font-family: 'ChomskyRegular';
+  font-weight: 400;
+font-style: ChomskyRegular;
+}
+
+a {
+  color:white;
+    font-size: 25px;
+    font-family:Futura;
+    font-style: normal;
+    font-kerning: 20%;
+    position: absolute;
+   left: 563px;
+   top: 500px;
+   color: white
+
+}
+
+}
+
+
+}
+
+
+}
+body {
+padding: 40px;
+}
